@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+body {
+    padding-top: 70px;
+    background-color: #779E7E;
+}
+.navbar {
+    background-color: #779E7E !important ;
+}
+
+.navbar-nav {
+    font-family: 'Quicksand', sans-serif;
+    display: flex;
+    justify-content: space-between;
+    align-items: right;
+}
+nav.navbar.navbar-expand-lg.navbar-light.bg-light {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+.Featured {
+    background-color: #779E7E;
+    color: white
+}
+.Hero{
+    font-family: 'Quicksand', sans-serif;
+    margin: 4em;
+    text-align: left;
+    
+}
+.FeaturedTitle {
+    font-family: 'Quicksand', sans-serif;
+    margin: 4em;
+    
+}
+.FeaturedOptions {
+    display: flex;
+    margin: 4em;
+    font-family: 'Quicksand', sans-serif;
+}
+.ListenToMusic {
+    padding: 10px;
+    text-align: center;
+
+}
+.Guidance {
+    padding: 10px;
+    text-align: center;
+}
+.TakeaBreak {
+    padding: 10px;
+    text-align: center;
+}
+.Gumball {
+    padding: 10px;
+    text-align: center;
+}
+.TanWave {
+    height: 2px;
+    display: flex;
+    width: 100%;
+}
+.FooterText {
+    width: 200px;
+    height: 200px;
+    font-size: 24px;
+    margin: 150px;
+}
+footer {
+    background-color: #CEC5B4 ;
+    display: flex;
+    text-align: left;
+    color: black;
+    padding: 70px;
+    display: flex;
+}
+.footericons {
+    background-color: #CEC5B4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+.footerlinks {
+    background-color: #CEC5B4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Line {
+    width: 700px;
+    height: 2px;
+}
+.footerline {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 600px;
+    height: 1px;
+}
